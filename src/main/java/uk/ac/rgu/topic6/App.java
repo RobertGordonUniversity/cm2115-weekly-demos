@@ -54,7 +54,7 @@ public class App {
 
         /* Create an instance of ForwardsPrintStrategy */
         ForwardsPrintStrategy strategy1 = new ForwardsPrintStrategy();
-        app.printWords(strategy1);
+        app3.printWords(strategy1);
 
         /* Or we can use a lambda expression */
 
@@ -64,7 +64,7 @@ public class App {
                 System.out.print(values[i]);
             }
         };
-        app.printWords(strategy2);
+        app3.printWords(strategy2);
     }
 
     public void printWords(PrintStrategy strategy){
