@@ -12,10 +12,6 @@ Each topic is in its own package, within the `uk.ac.rgu` package (e.g., topic 2 
 
 Note that in the class demo, we might re-use classes and/or other code from a previous week (e.g., the demo for topic4 buildes on classes from topic3). In this repo, the topics are made standalone - but any re-used classes are included in the relevant topic folder (so the Animal class from topic3 is also in topic4, etc.).
 
-## Exercises
-
-At the top of each `App` class is a set of suggested exercises for you to expand the demo. These are entirely optional, and designed to allow you to consolidate your understanding. 
-
 ## Updates
 
 The repo will be updated each week. There's two ways you can use the repo and get the latest updates - cloning and pulling the updates, or forking and synching the updates. The former means you won't be able to push any updates you make to GitHub, while the latter will allow this.
