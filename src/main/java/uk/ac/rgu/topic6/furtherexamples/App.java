@@ -7,7 +7,7 @@ public class App {
         /* We still want to store multiple unrelated commands, but now we have a generic type
          * The type can be ignored...but we do get a warning
          */
-        CommandWithReturn[] commands = new CommandWithReturn[10];
+        CommandWithReturn<?>[] commands = new CommandWithReturn[10];
 
         /* Create a car and encapsulate its getFuel() method as a CarFuelCommand */
         Car car1 = new Car(Fuel.PETROL);

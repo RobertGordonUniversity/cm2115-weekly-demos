@@ -1,22 +1,8 @@
 package uk.ac.rgu.topic6b.abstractfactory;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
-
 public class App {
     
     public static void main(String[] args){
-
-
-        Map<String, String> m = new HashMap<>();
-
-        Collection<String> v = m.values();
-
 
         /* We'll create a FurnitureFactory object, and assign it to an
          * AntiqueFurnitureFactory
