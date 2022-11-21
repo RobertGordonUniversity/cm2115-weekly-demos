@@ -52,3 +52,9 @@ The following links will take you to the package in `src/main/java` and, where r
 
 - Topic 6: Design Patterns (1)
     - [Code](https://github.com/RobertGordonUniversity/cm2115-weekly-demos/tree/main/src/main/java/uk/ac/rgu/topic6)
+
+- Topic 6b: Design Patterns (2)
+    - [Code](https://github.com/RobertGordonUniversity/cm2115-weekly-demos/tree/main/src/main/java/uk/ac/rgu/topic6b)
+
+- Topic 7: Java Collections Framework and Streams
+    - [Code](https://github.com/RobertGordonUniversity/cm2115-weekly-demos/tree/main/src/main/java/uk/ac/rgu/topic7)
