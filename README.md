@@ -54,3 +54,9 @@ The following links will take you to the package in `src/main/java` and, where r
 
 - Topic 7: Java Collections Framework and Streams
     - [Code](https://github.com/RobertGordonUniversity/cm2115-weekly-demos/tree/main/src/main/java/uk/ac/rgu/topic7)
+
+- Topic 8: Exceptions
+    - [Code](https://github.com/RobertGordonUniversity/cm2115-weekly-demos/tree/main/src/main/java/uk/ac/rgu/topic8)
+
+- Topic 9: Files
+    - [Code](https://github.com/RobertGordonUniversity/cm2115-weekly-demos/tree/main/src/main/java/uk/ac/rgu/topic9)
